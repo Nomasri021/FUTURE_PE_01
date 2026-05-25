@@ -1,0 +1,27 @@
+You are a professional website copywriter.
+
+Write complete homepage website content for a modern café called "Urban Brew Café" located in Hyderabad.
+
+Target audience:
+College students, freelancers, and young professionals.
+
+Include:
+1. Hero Section Headline
+2. Subheadline
+3. About Us Section
+4. Services Section
+5. Customer Experience Section
+6. Why Choose Us
+7. CTA Section
+
+Tone:
+Friendly, modern, cozy, and premium.
+
+Requirements:
+- Make the content website-ready and engaging
+- Use persuasive and conversational language
+- Keep the content clear and easy to read
+- Add strong emotional connection with customers
+- Focus on comfort, creativity, productivity, and community vibe
+
+The output should feel like professional website copy for a real café business.
